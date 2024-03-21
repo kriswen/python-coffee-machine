@@ -24,4 +24,4 @@ This Python program simulates a coffee machine. It allows users to choose from d
 ## Usage
 
 ```bash
-python coffee_machine.py
+python main.py
