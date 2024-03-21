@@ -41,7 +41,7 @@ def print_report():
     print(f"Water: {resources['water']}ml")
     print(f"Milk: {resources['milk']}ml")
     print(f"Coffee: {resources['coffee']}g")
-g    print(f"Money: ${round(money_available, 2)}")
+    print(f"Money: ${round(money_available, 2)}")
     print("#####################################")
 
 
